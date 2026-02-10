@@ -1,7 +1,8 @@
 🛡️ Project: Computer System Anatomy (90 Days Journey)
 
 📅 MONTH 1: Hardware, Bits & Memory Hierarchy
-[x] Week 1: The Grand Tour (Chapter 1)
+
+[] Week 1: The Grand Tour (Chapter 1)
 
 [] Day 01: (Page 31-37) | Introduction to Systems
 Sub-topics: Hardware + Software Teamwork, Anatomy of a System.
