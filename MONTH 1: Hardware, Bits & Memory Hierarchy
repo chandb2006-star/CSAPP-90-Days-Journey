@@ -1,1 +1,49 @@
+[] Week 1: The Grand Tour (Chapter 1)
 
+[] Day 01: (Page 31-37) | Introduction to Systems Sub-topics: Hardware + Software Teamwork, Anatomy of a System. Doubt Words/Terms: [Enter words here]
+
+[] Day 02: (Page 38-41) | Information is Bits + Context Sub-topics: ASCII, Text vs Binary files, Why Context matters. Doubt Words/Terms: [Enter words here]
+
+[] Day 03: (Page 42-45) | The Compilation System Sub-topics: Preprocessor, Compiler, Assembler, Linker. Doubt Words/Terms: [Enter words here]
+
+[] Day 04: (Page 46-49) | Hardware Organization Sub-topics: Buses, I/O Devices, Main Memory, Processor (CPU). Doubt Words/Terms: [Enter words here]
+
+[] Day 05: (Page 50-54) | Caches & Memory Hierarchy Sub-topics: L1-L3 Cache, Performance Gap, Cache Logic. Doubt Words/Terms: [Enter words here]
+
+[] Day 06: (Page 55-60) | Operating System Abstractions Sub-topics: Processes, Threads, Virtual Memory, Files. Doubt Words/Terms: [Enter words here]
+
+[] Day 07: (Page 61-66) | Networks & Summary Sub-topics: Amdahl's Law (Skim), Systems communicate. Doubt Words/Terms: [Enter words here] Week 2: Data Representation (Chapter 2)
+
+[] Day 08: (Page 70-75) | Information Storage Sub-topics: Hexadecimal Notation, Data Sizes. Doubt Words/Terms: [Enter words here]
+
+[] Day 09: (Page 76-80) | Addressing & Byte Ordering Sub-topics: Big Endian vs Little Endian, Pointers. Doubt Words/Terms: [Enter words here]
+
+[] Day 10: (Page 81-89) | Boolean Algebra & Bits Sub-topics: Bit-level operations (AND, OR, XOR, NOT). Doubt Words/Terms: [Enter words here]
+
+[] Day 11: (Page 90-94) | Shift Operations Sub-topics: Logical vs Arithmetic Shift in C. Doubt Words/Terms: [Enter words here]
+
+[] Day 12: (Page 95-105) | Integer Representations Sub-topics: Unsigned Encodings, Two's Complement. Doubt Words/Terms: [Enter words here]
+
+[] Day 13: (Page 106-120) | Signed vs Unsigned Sub-topics: Conversions and expansion of bits. Doubt Words/Terms: [Enter words here]
+
+[] Day 14: Week 2 Review & Phase 1 Project (Bit-Decoder) Week 3 & 4: Storage Technologies (Chapter 6)
+
+[] Day 15: (Page 617-624) | Random Access Memory (RAM) Sub-topics: DRAM vs SRAM, Memory Modules.
+
+[] Day 16: (Page 625-635) | Disk Storage Sub-topics: Disk Geometry, Seek time, Rotational latency.
+
+[] Day 17: (Page 636-640) | Solid State Disks (SSD) Sub-topics: Flash memory, SSD performance vs HDD.
+
+[] Day 18: (Page 641-644) | Locality of Reference Sub-topics: Temporal vs Spatial Locality.
+
+[] Day 19: (Day 645-650) | Memory Hierarchy Concept Sub-topics: Caching in the hierarchy, Level 0 to Level 6.
+
+[] Day 20: (Page 651-660) | Cache Memories Sub-topics: Direct-Mapped Caches, Cache Sets.
+
+[] Day 21: (Page 661-670) | Cache Issues & Writes Sub-topics: Write-through vs Write-back, Cache Misses.
+
+[] Day 22: (Page 671-680) | Real-world Cache Hierarchy Sub-topics: Intel Core i7 cache anatomy.
+
+[] Day 23: (Page 681-685) | Memory Mountain Sub-topics: Throughput vs Read throughput.
+
+[] Day 24-30: Buffer Days / Month 1 Deep Review.
