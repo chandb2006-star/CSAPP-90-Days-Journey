@@ -9,6 +9,7 @@ Day 63: (Page 875-882) | Dynamic Memory Allocation (malloc)
 Day 64: (Page 883-895) | Implicit/Explicit Free Lists
 
 Day 65: (Page 906-920) | Common Memory Bugs in C
+
 Week 10: System I/O & Networking (Chapter 10 & 11)
 
 Day 66: (Page 926-930) | Unix I/O & Opening Files
@@ -30,6 +31,7 @@ Day 73: (Page 984-990) | Web Basics & HTTP
 Day 74: (Page 991-1005) | Tiny Web Server Anatomy
 
 Day 75: Week Review.
+
 Week 11: Concurrency (Chapter 12)
 
 Day 76: (Page 1009-1012) | Concurrency with Processes
@@ -45,6 +47,7 @@ Day 80: (Page 1046-1060) | Thread Safety & Reentrancy
 Day 81: (Page 1061-1075) | Races & Deadlocks
 
 Day 82-85: Final Phase Project (Tiny Server Deployment).
+
 Week 12: Final Review & DevOps Connect
 
 Day 86-90: System Anatomy Deep Review & Sync with "How Linux Works".
